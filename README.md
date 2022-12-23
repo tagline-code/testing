@@ -4,7 +4,7 @@
 <html>
 
   <head>
-    <title> Test Run of a Complete Novice: </title>
+    <title>Test Run of a Complete Novice:</title>
   </head>
   
   <body>
