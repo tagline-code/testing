@@ -4,7 +4,7 @@
 <html>
 
   <head>
-    <p><title>Test Run of a Complete Novice:</title></p>
+    <p>boo</p>
   </head>
   
   <body>
