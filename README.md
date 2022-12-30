@@ -11,7 +11,7 @@
   
   Examples of some VTubers:
   
-  Link to VTuber Agencies: Hololive || Nijisanji 
+  Link to VTuber Agencies: <a href="https://en.hololive.tv/">Hololive</a> || Nijisanji 
   
   <hr>
   
