@@ -11,7 +11,7 @@
   
   <strong>Link to VTuber Agencies:</strong> <a href="https://en.hololive.tv/">Hololive</a> || <a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a> 
   
-    <strong>Examples of some VTubers:</strong>
+  <strong>Examples of some VTubers:</strong>
   
   
   <hr>
