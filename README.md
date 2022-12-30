@@ -7,11 +7,16 @@
      
   <p><h4>VTubers: What are they?</h4></p>
   
-  <p>VTubers are a type of Content Creator who use an avatar (usually in the form of a character) as a "stand-in" for their actual physical self. Though they make a variety of content, VTubers are most known for streaming/videos! (In fact, Vtuber is just the shortened form of "Virtual Youtuber"! But you can post your content anywhere!, with Youtube and Twitch seemingly the most popular for streaming, and Twitter for social media!</p>
+  <p>VTubers are a type of Content Creator who use an avatar (usually in the form of a character) as a "stand-in" for their actual physical self. Though they make a variety of content, VTubers are most known for streaming/videos! (In fact, Vtuber is just the shortened form of "Virtual Youtuber"! But you can post your content anywhere!, with Youtube and Twitch seemingly the most popular for streaming, and Twitter for social media!
+
+It's a way for people to stream with a fun character and remain anonymous if they wish to.</p>
   
-  <strong>Link to VTuber Agencies:</strong> <a href="https://en.hololive.tv/">Hololive</a> || <a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a> 
+  <strong>Link to VTuber Agencies:</strong> 
+  <a href="https://en.hololive.tv/">Hololive</a> || <a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a> 
   
-  <strong>Examples of some VTubers:</strong>
+  <strong>Examples of some VTubers:</strong> <img src="https://hololive.hololivepro.com/wp-content/uploads/2022/04/4004_Gawr-Gura.png"
+        width="300"
+        height="380"/>
   
   
   <hr>
