@@ -14,12 +14,13 @@ It's a way for people to stream with a fun character and remain anonymous if the
   <strong>Link to VTuber Agencies:</strong> 
   <a href="https://en.hololive.tv/">Hololive</a> || <a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a> 
   
-  <strong>Examples of some VTubers:</strong> <img src="https://hololive.hololivepro.com/wp-content/uploads/2022/04/4004_Gawr-Gura.png"
+  <strong>Examples of some VTubers:</strong> 
+  <p><img src="https://hololive.hololivepro.com/wp-content/uploads/2022/04/4004_Gawr-Gura.png"
         width="300"
         height="380"/>
   
   
-  <hr>
+  <hr></p>
   
 
   
