@@ -1,10 +1,15 @@
 # test run: #1
-
-
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
 
   <h1><b>VTubers, what are they? And how do you debut? (My current obsession.)</b></h1>
      <hr>
      
+  
+  <body>
+    
   <p><h4>VTubers: What are they?</h4></p>
   
   <p>VTubers are a type of Content Creator who use an avatar (usually in the form of a character) as a "stand-in" for their actual physical self. Though they make a variety of content, VTubers are most known for streaming/videos! (In fact, Vtuber is just the shortened form of "Virtual Youtuber"! But you can post your content anywhere!, with Youtube and Twitch seemingly the most popular for streaming, and Twitter for social media!
@@ -22,6 +27,7 @@ It's a way for people to stream with a fun character and remain anonymous if the
   
   <hr></p>
   
-
+  </body>
+</html>
   
 
