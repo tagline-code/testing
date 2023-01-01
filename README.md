@@ -20,15 +20,25 @@
 It's a way for people to stream with a fun character and remain anonymous if they wish to.</p>
   
   <strong>Link to VTuber Agencies:</strong> 
-  <a href="https://en.hololive.tv/">Hololive</a> || <a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a> 
+  <ul>
+    <li><a href="https://en.hololive.tv/">Hololive</a></li>
+    <li><a href="https://www.nijisanji.jp/en/talents?filter=nijisanjien">Nijisanji</a></li> 
+  </ul>
   
   <strong>Examples of some VTubers:</strong> 
   <p><img src="https://hololive.hololivepro.com/wp-content/uploads/2022/04/4004_Gawr-Gura.png"
         width="300"
         height="380"/>
   
-  
   <hr></p>
+  
+  What kind of topics does a Vtuber cover? What kind of content does a Vtuber create? (You can make anything!)
+  
+  A Vtuber can cover any sort of topic they like, but for some ideas, here are a few!:
+  <ol>
+  <li>Games</li>
+  <li>Cooking</li>
+  
   
   </body>
 </html>
