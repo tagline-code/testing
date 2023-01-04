@@ -40,15 +40,27 @@ It's a way for people to stream with a fun character and remain anonymous if the
   <li>Cooking</li>
   <li>Movie Watch-a-longs</li>
   <li>Travel Blogs</li>
+  </ul>
+ 
+Here are a few Vtubers and the content they do!:
   
-  Here are a few Vtubers and the content they do!:
-  <ol>
-    <li>Mori Calliope:</li>
+<ol type="1"><li>Mori Calliope:</li></ol>
   <ul>
     <li>Sing: Rap, Pop, etc.</li>
     <li>Game Streams</li>
     <li>Talk Shows</li>
     <li>Chat with Me</li>
+  </ul>
+   
+   <ol type="1"> 
+    <li>Bae:</li>
+     
+    <ul>
+      <li>Learn Japanese (DuoLingo)</li>
+      <li>Draw Sessions</li>
+    </ul>
+    
+    
   </body>
 </html>
   
