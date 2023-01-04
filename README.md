@@ -35,11 +35,20 @@ It's a way for people to stream with a fun character and remain anonymous if the
   What kind of topics does a Vtuber cover? What kind of content does a Vtuber create? (You can make anything!)
   
   A Vtuber can cover any sort of topic they like, but for some ideas, here are a few!:
-  <ol>
-  <li>Games</li>
+  <ul>
+  <li>Gaming Content</li>
   <li>Cooking</li>
+  <li>Movie Watch-a-longs</li>
+  <li>Travel Blogs</li>
   
-  
+  Here are a few Vtubers and the content they do!:
+  <ol>
+    <li>Mori Calliope:</li>
+  <ul>
+    <li>Sing: Rap, Pop, etc.</li>
+    <li>Game Streams</li>
+    <li>Talk Shows</li>
+    <li>Chat with Me</li>
   </body>
 </html>
   
